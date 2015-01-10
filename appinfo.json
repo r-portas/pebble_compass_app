@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "royportas@gmail.com",
+    "longName": "Roy's Compass App",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Compass",
+    "uuid": "2f1b4bf2-026e-46cc-83b9-f39638979b24",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
